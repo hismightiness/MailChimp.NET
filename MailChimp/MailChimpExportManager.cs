@@ -5,6 +5,7 @@ using System.Linq.Expressions;
 using ServiceStack.Text;
 using MailChimp.Errors;
 using MailChimp.Campaigns;
+using ServiceStack;
 
 namespace MailChimp
 {

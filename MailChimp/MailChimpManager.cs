@@ -14,6 +14,7 @@ using MailChimp.Templates;
 using MailChimp.Users;
 using ServiceStack.Text;
 using System.IO;
+using ServiceStack;
 
 namespace MailChimp
 {

@@ -2,7 +2,7 @@
 using System.Linq;
 using System.Collections.Generic;
 using System.Runtime.Serialization;
-
+using ServiceStack;
 using ServiceStack.Text;
 
 namespace MailChimp.Lists
